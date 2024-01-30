@@ -1,4 +1,4 @@
-![logo](https://github.com/asimhayat/asimhayat/blob/main/banner.png)
+![logo](https://github.com/asimhayat/asimhayat/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Asim Hayat</h1>
 <h3 align="center">A passionate Software Engineer from Karachi</h3>
 
