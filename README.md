@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimhayat&label=Profile%20views&color=0e75b6&style=flat" alt="asimhayat" /> </p>
 
-- 🌱 I’m currently learning **Python, Java , WordPress & dart**
+- 🌱 I’m currently learning **Flutter , Dart , Python & Java**
 
 - 📫 How to reach me **asimhayat125@gmail.com**
 
